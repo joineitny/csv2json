@@ -14,8 +14,8 @@
 Для использования программы необходимо установить Go на вашу систему. После установки Go, клонируйте репозиторий и соберите проект:
 
 ```bash
-git clone https://github.com/yourusername/csv-to-json-go.git
-cd csv-to-json-go
+git clone https://github.com/joineitny/csv2json.git
+cd csv2json
 go build -o csv2json
 ```
 
